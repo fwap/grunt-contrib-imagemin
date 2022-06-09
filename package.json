@@ -38,7 +38,7 @@
     "plur": "^5.1.0",
     "imagemin-jpegtran": "^7.0.0",
     "imagemin-gifsicle": "^7.0.0",
-    "imagemin-optipng": "^9.0.0",
+    "imagemin-optipng": "https://github.com/fwap/imagemin-optipng.git",
     "imagemin-svgo": "^10.0.1",
     "pretty-bytes": "^6.0.0"
   },
