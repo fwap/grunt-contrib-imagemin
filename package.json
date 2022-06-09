@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "chalk": "^2.4.1",
-    "imagemin": "^6.0.0",
+    "imagemin": "^8.0.1",
     "p-map": "^1.2.0",
     "plur": "^3.0.1",
     "pretty-bytes": "^5.1.0"
