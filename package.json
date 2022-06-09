@@ -36,7 +36,8 @@
     "imagemin": "^8.0.1",
     "p-map": "^5.4.0",
     "plur": "^5.1.0",
-    "pretty-bytes": "^6.0.0"
+    "imagemin-jpegtran": "^7.0.0",
+		"pretty-bytes": "^6.0.0"
   },
   "xo": {
     "rules": {
@@ -51,7 +52,6 @@
   },
   "optionalDependencies": {
     "imagemin-gifsicle": "^7.0.0",
-    "imagemin-jpegtran": "^7.0.0",
     "imagemin-optipng": "^8.0.0",
     "imagemin-svgo": "^10.0.1"
   },
