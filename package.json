@@ -36,8 +36,8 @@
     "imagemin": "^8.0.1",
     "p-map": "^5.4.0",
     "plur": "^5.1.0",
-    "imagemin-jpegtran": "^7.0.0",
-    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-jpegtran": "https://github.com/fwap/imagemin-jpegtran.git",
+    "imagemin-gifsicle": "https://github.com/fwap/imagemin-gifsicle.git",
     "imagemin-optipng": "https://github.com/fwap/imagemin-optipng.git",
     "imagemin-svgo": "^10.0.1",
     "pretty-bytes": "^6.0.0"
