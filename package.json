@@ -50,10 +50,10 @@
     "xo": "^0.23.0"
   },
   "optionalDependencies": {
-    "imagemin-gifsicle": "^6.0.1",
-    "imagemin-jpegtran": "^6.0.0",
-    "imagemin-optipng": "^6.0.0",
-    "imagemin-svgo": "^7.0.0"
+    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "imagemin-svgo": "^10.0.1"
   },
   "appveyor_id": "7w491e6edsuanreu"
 }
